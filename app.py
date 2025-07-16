@@ -5,3 +5,6 @@ print('New code')
 
 for i in range(10):
     print(i)
+
+
+lst = [1, 2, 3]
