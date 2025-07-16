@@ -9,3 +9,4 @@ for i in range(10):
 
 lst = [1, 2, 3]
 
+print('Absolute new code')
